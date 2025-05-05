@@ -1,5 +1,6 @@
 package daily.code.problem.app
 
+// https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 class BuySellStocks {
     fun maxProfit(prices: IntArray): Int {
         var minPrice = Int.MAX_VALUE
